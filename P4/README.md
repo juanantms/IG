@@ -1,7 +1,9 @@
 Ejecución:
+
 	./practica_objetos_B3 beethoven
 
 Atajos de teclado:
+
 	Tecla 'Q': Salir
 	
 	Tecla 'AvPag'/'RePag' : +/- Zoom
