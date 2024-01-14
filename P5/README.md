@@ -1,7 +1,9 @@
 Ejecución:
+
 	./practica_objetos_B5 beethoven
 
 Atajos de teclado:
+
 	Tecla 'Q': Salir
 	
 	Tecla 'O': Seleccionar Beethoveen
@@ -20,6 +22,7 @@ Atajos de teclado:
 	Tecla '4': Dibujar en varios colores
 	
 Atajos de ratón:
+
 	Click izquierdo: seleccionar partes del modelo jerárquico
 	Mantener click derecho: mover la cámara
 	Rueda: +/- ZOOM
